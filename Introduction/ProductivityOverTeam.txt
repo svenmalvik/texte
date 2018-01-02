@@ -1,0 +1,38 @@
+﻿# Productivity Over Team And How A WIP Guard Made Me Quit My Job 
+In this chapter I want to point out that there are always challenges working within an agile team. Challenges that you need to overcome sooner or later. When I started my career as a software developer, I knew I had to learn to code. Over the past decade I learned that there is a lot more than that. 
+
+## What Most Developers Understand About Being Agile 
+
+### How Flexibility Supports Motivation In Agile Teams
+Flexibility in agile teams that work with user-stories means free choice of tasks and is a great motivator for most developers. A typical user-story on its way into production involves many very different tasks. As different tasks are, as differnt are we as  developers. Some of us like more working on database tasks, some like it better to work with frontend or backend tasks, others like to test user-stories, or maybe document them. The free choice of tasks make us more happy, more motivated and more productive. It makes us also more creative, especially when we work on solving hard problems. Me for example, I like to work on backend tasks more than on frontend tasks. I also love it to document my work. My speciality is it to solve problems when others have given up. On the other side, I don't like to test. Maybe because I never realy had pushed myself into that field. 
+I have worked in many differnt teams, and the free choice of tasks is what makes our mind free. We are able to think by ourselves. We are able to think in new ways and let us be creative, happy, motivated and somtimes entusiastic. The free choice of tasks is what we need. The question is, how free is free? A long time ago I had a team leader that was more into streamlining our dilivery pipeline. Producivity over team was a manta that would his attitude describe perfectly even thogh he wouldn’t see it this way. Be careful and watch out for the team leader.
+
+### Why We Learned to Embrace Changes
+Changes are very common today and only few still complain. I remember some years back, one of my colleages got always frustrated, almost histeric when the CEO aproached him with a change. What we didn’t realized at that tie was that those people what wants us to build a solution to a problem, don’t know the details of the end product. They figure it out on the way. 
+All too often product owners, business developers and other stakeholders aproach us with requirement changes when we are in the middle of „something“, and they want us to change behaviour we have already implemented or doing so. Since then, we have learned to deal with changes. We design our solutions in a way it is easiely changeable and adjustable, often through the use of design patterns. 
+Moreover, new and more important tasks can come up and get higher priotitized than others. Think of a bug in a production environment. This type of task need our immediate attention. A very useful and common way of dealing with interruptions and changes in general is it to split up a user-story into small sub-tasks. Team members can now work in parallel if they want to. The important constraint to sub-tasks is that it will need to full-fill the definition of done (DoD). DoD means that you, the team, define when a task is done. For example, a task is done when it is implemented, code reviewed, tested and documented. That way, changes are welcome. Each task will be finished in a shorter period of time. A user-story can finally regression tested.
+I once worked for a startup company, as this isn't challenging enough :) Changes came all the time and we learned that we never will be able to finish an ongoing user-story. That was before Scrum and Kanban. The only way to be able to finish a user-story was it to make them smaller in size. We ended up splitting a user-story into many small sub-tasks. Tasks could now easily be re-prioritized. It didn’t bother us because we would finish an ongoing task anyway very soon. 
+Let’s now summarize why changes lead to better quality. First of all, changes in implementations require from us that we code in a way it is easy to understand, easy to change and easy to extend. Design patterns are the best fit for that. I recommend you to take a look at the gang of four, the most used design patterns. 
+Secondly, user-stories get more attention. We split it into pieces, where each of them goes through the entire delivery pipeline until all DoD criterias are full-filled. At the end when we start to regression test the wntire user-stories, we already have a pretty good idea about the quality of it.
+
+### How “normal” Kanban Teams Increase Productivity
+Before Scrum, we used to work like we want and like it fits each individual best. The consequece was that we had too many task ongoing at the same time and nothing got finished. This era belongs the past. Today, many teams switched over to Kanban, although you can't say Kanban is better than Scrum. I like to think of Kanban as a lightweight version of Scrum. There're no roles prescribed, there're less meetings you need attend to, and you won't need to commit to anything. Like with Scrum, Kanban streamlines the flow of user stories and tasks. 
+In a previous project I was part of, we weren't allowed to pick new tasks until the current task we worked on fullfilled the criterias of DoD. Theoreticaly it makes sense, practically it is challenging. I will come back later to this and explain why it can get frustrating with Kanban and why it made me quit my job.
+
+## Leading An Agile Team 
+
+### The Problem With Daily Meetings 
+
+### Why Motivating Developers Gets Harder 
+
+### How Bad Team Leaders Are Different From Good Team Leaders 
+
+## Stories From Developers About How They “survived” A Tight Controlled “Agile” Team 
+
+### Being Focused Sounds Great - But Not To Him 
+
+### How Pair Programming Sucked Any Joy Out Of Her 
+
+### The Insanity Of Our WIP Guard 
+
+## Conclusion
