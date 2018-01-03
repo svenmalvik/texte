@@ -40,6 +40,6 @@ Controlling people
 
 ### How Pair Programming Sucked Any Joy Out Of Her 
 
-### The Insanity Of Our WIP Guard 
+### The Madness Of A WIP Guard 
 
 ## Conclusion
