@@ -1,4 +1,4 @@
-﻿# Productivity Over Team And How A WIP Guard Made Me Quit My Job 
+﻿# The Agile Problem
 In this chapter I want to point out that there are always challenges working within an agile team. Challenges that you need to overcome sooner or later. When I started my career as a software developer, I knew I had to learn to code. Over the past decade I learned that there is a lot more than that. 
 
 ## What Most Developers Understand About Being Agile 
