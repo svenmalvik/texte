@@ -2,6 +2,7 @@
 In this chapter I want to point out that there are always challenges working within an agile team. Challenges that you need to overcome sooner or later. When I started my career as a software developer, I knew I had to learn to code. Over the past decade I learned that there is a lot more than that. 
 
 ## What Most Developers Understand About Being Agile 
+"Agile" is probably one of the most used buzzwords of the last decade. Many will think of Scrum and Kanban as the way of being agile. Generally spoken, being agile makes us more adapable, we deliver better quality, and we are able to deliver more in the same amount of time because we work smarter. Over the years, we've learned a lot about agility. Let's now discuss this in more depth. 
 
 ### How Flexibility Supports Motivation In Agile Teams
 Flexibility in agile teams that work with user-stories means free choice of tasks and is a great motivator for most developers. A typical user-story on its way into production involves many very different tasks. As different tasks are, as differnt are we as  developers. Some of us like more working on database tasks, some like it better to work with frontend or backend tasks, others like to test user-stories, or maybe document them. The free choice of tasks make us more happy, more motivated and more productive. It makes us also more creative, especially when we work on solving hard problems. Me for example, I like to work on backend tasks more than on frontend tasks. I also love it to document my work. My speciality is it to solve problems when others have given up. On the other side, I don't like to test. Maybe because I never realy had pushed myself into that field. 
@@ -22,6 +23,12 @@ In a previous project I was part of, we weren't allowed to pick new tasks until 
 ## Leading An Agile Team 
 
 ### The Problem With Daily Meetings 
+When I first was introduced to Scrum in 2005, Scrum sounded very reasonable. Each team member had to say some words about what he or she did yesterday, what he or she is going to do today, and if there're any impediments. As a team, we looked at a nice chart, the burndown chart and did a bit small talk. For most teams, this hasn't changed. 
+Daily meetings are ment to synchronize between team members. We exchange information so everybody is on the same page. Daily meetings contribute to healthy teams. Very often, this is not the case any more. In many cases, daily meetings has become an arena for self promoting, blame gaming and people controlling.
+
+Too long
+Useless information
+Controlling people
 
 ### Why Motivating Developers Gets Harder 
 
