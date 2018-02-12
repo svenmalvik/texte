@@ -1,11 +1,22 @@
 # Hvordan Sopra Steria drifter NAVs største IT-prosjekt.
 
 # De 5 største driftsutfordringer i foreldrepengerprosjektet.
-## Håndtering av ulike versjoner i parallell
+### Hvordan vi vokset fra 10 til 60 utviklere.
+## Håndtering av ulike versjoner i paralell
+### Hvordan vi startet.
+- prototype, develop branchen, ett team
+### Hvordan vi jobber nå.
+- monolitt, feature branching, seks team
+### Hvordan vi vil jobbe i nær framtid.
+- Flere applikasjoner, develop branch + feature branch, 8 team
 ## Produksjonsklar versjon til enhver tid
+### 
 ## Håndtering av data ved endringer i datamodellen
+- Flyway, testdata
 ## Selvstendige utviklingsteam
+- dedikerte miljør, jenkins pipeline, hipchat
 ## Overgangen til Kubernetes
+- ingen dedikerte miljøer lenger
 
 # Hvordan orkestrere 6 utviklerteam og 100 mennesker fra driftsperspektiv.
 
