@@ -15,6 +15,9 @@ De tre første måneder gikk vedlig fort, og vi brukte tiden til å lære mye om
 Tiden floy, og flere utvikler jointe oss. Noen av dem kjente jeg allerede, og det var gøy å se hvor mange i prosjektet kjente hverandre fra før, fra tidligere prosjekter. Samarbeidet i prosjektet er veldig bra, Allikevel så vi at barnet vårt som vokste, ble etterhvert vanskelig å styre. Hovedbranchen feilet oftere. Vi måtte velge en annen branching strategi for å sikre best oppvekst. Hittil har alle pushet til develop branchen, og kun noen valgte feature branches. Vår 2017 gikk hele prosjektet over til feature branches for å sikre at alle teamene ikke merger til develop før den er testet og verifisert. Det var det vi trengte, og fpsak ble stabil igjen.
 
 team miljøer
+
+aura plugin
+
 data migrering - master base
  
 ## NAV Application Infrastructure Service - nais.io
