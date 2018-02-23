@@ -1,4 +1,5 @@
 # Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
+
 Oktober 2016 startet et av Norges største IT prosjekter. Foreldrepengeprosjektet er en del av Prosjekt 2 i moderniseringen av IKT i NAV. Målet med prosjektet er å lage en moderne saksbehandlingsløsning og nye digitale tjenester, med vekt på forenkling, digitalisering og automatisering. I dette innlegget vil jeg beskrive hvordan vi startet fra å drifte en prototype på noen 100 kodelinjer og 4 utviklere til å drifte flere applikasjoner på mange 10.000 kodelinjer og over 60 utviklere. I dag består prosjektet av til sammen ca. 120 mennesker som bidrar med å lage en viktig løsning for samfunnet.
 
 ## Prototypen
@@ -14,4 +15,5 @@ De tre første måneder gikk vedlig fort, og vi brukte tiden til å lære mye om
 Tiden floy, og flere utvikler jointe oss. Noen av dem kjente jeg allerede, og det var gøy å se hvor mange i prosjektet kjente hverandre fra før, fra tidligere prosjekter. Samarbeidet i prosjektet er veldig bra, Allikevel så vi at barnet vårt som vokste, ble etterhvert vanskelig å styre. Hovedbranchen feilet oftere. Vi måtte velge en annen branching strategi for å sikre best oppvekst. Hittil har alle pushet til develop branchen, og kun noen valgte feature branches. Vår 2017 gikk hele prosjektet over til feature branches for å sikre at alle teamene ikke merger til develop før den er testet og verifisert. Det var den største feilen vi gjorde! Jeg skal komme tilbake til det om litt.
  
 ## NAV Application Infrastructure Service - nais.io
+
 ## Konklusjon
