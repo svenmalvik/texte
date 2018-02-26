@@ -1,6 +1,6 @@
 # The beauty of kontinuerlig dokumentasjon.
 
-*For mange er å dokumentere kodebasen en kjedelig oppgave. Jeg tror det er fordi den endelige dokumentasjonen ofte ikke inviterer til å lese, den blir veldig informativt, veldig kjedelig. I så fall er det lite som motiverer.*
+**For mange er å dokumentere kodebasen en kjedelig oppgave. Jeg tror det er fordi den endelige dokumentasjonen ofte ikke inviterer til å lese, den blir veldig informativt, veldig kjedelig. I så fall er det lite som motiverer.**
 
 Jeg har alltid hatt lyst til å publisere en bok. For noen år siden intervjuet jeg Nilanjan Raychaudhuri, forfatteren bak "Scala in Action". Vi spiste lunsj sammen dagen han ledet en Scala workshop jeg var med på. "How much time did you spend on writing this book?", spurte jeg. "About two years.", svarte han. "You need to have great diciplin". Ok, tenkte jeg, jeg viste at å skrive en bok er utfordrende, men å høre det direkte fra noen som har publisert noe som folk faktisk leser. Dette var spennende syntes jeg. 
 
