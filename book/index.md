@@ -1,4 +1,4 @@
-﻿# The Developer: The Ultimate Software Developer’s Guide For Becoming The Best You Can Be.
+# The Developer: The Ultimate Software Developer’s Guide For Becoming The Best You Can Be.
 ## Introduction
 The Problem In Many Environments And How A WIP Guard Made Me Quit My Job 
 My Biggest Setback And How I Came Back 
