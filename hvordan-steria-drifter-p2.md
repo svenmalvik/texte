@@ -1,4 +1,4 @@
-# Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
+﻿# Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
 
 **Oktober 2016 startet et av Norges største IT prosjekter, og det største i NAVs historie. Rundt 120 mennesker bytter ut det 40 år gamle kjernesystemet. Hvordan ser prosjektet egentlig ut gjennom IT drifts-briller?**
 
@@ -17,7 +17,7 @@ De tre første måneder gikk vedlig fort, og vi brukte tiden til å lære mye om
 Tiden fløy, og flere utvikler «jointe» oss. Noen av dem kjente jeg fra før, og det var gøy å se hvor mange i prosjektet kjente hverandre fra tidligere prosjekter. Samarbeidet i prosjektet var altså veldig bra. Allikevel så vi at applikasjonen etterhvert ble vanskelig å styre jo flere commitet endringer og jo større den ble. Hovedbranchen feilet oftere og våre manuelle tester tok ofte mer tid enn planlagt. Vi valgte en annen branchingstrategi for å sikre bedre stabilitet. Hittil hadde alle pushet til develop branchen, og kun noen valgte feature branches. Vår 2017 gikk hele prosjektet over til feature branches som alltid ble testet før de ble merget inn til develop branchen. Om det var en god ide eller ikke tørr jeg ikke å uttale meg om. Vi fikk nye, og forventede utfordringer.
 
 I dag har vi 6 teams og alle fikk et dedikert miljø de kunne teste i. En server med JBoss på og en Oracle database, en kø og en systembruker. Noen av utviklerne hadde spesielle testbehov, og trengte derfor egne miljøer. I tillegg spanderte vi våre Jenkins slaver hvert sitt miljø. Til sammen ble det vel omtrent 20 miljøer som vi «vedlikeholdte». Jeg kan kanskje ikke si at vi vedlikeholdte disse, fordi det ikke var noe å gjøre bortsett fra å sette de opp. Det var noen spørsmål her og der inn i blant rundt konfigurasjonen.
- 
+
 ## NAV Application Infrastructure Service - nais.io
 
 Og så flyttet Docker, Kubernetes og noen andre verktøy som til sammen ble døpt for NAIS, inn i NAV sine kontorer. Med dem kom ett sterkt ønske om færre miljøer, noe som var et problem for oss som jobbet med hvert sitt feature branch i hvert sitt miljø og som dermed kunne teste uavhengig fra andre. Uavhengighet var hittil luksus skjønte jeg. Fra nå av skulle vi alle jobbe i ett og samme miljø. For oss betydde det at vi måtte release oftere, minst en gang i døgnet, for at vi kunne teste våre endringer. I DevOps-verden høres det ikke uvanlig ut, og teknisk er det ingenting i veien med. Det som var utfordrende er at løsningen stadig var i bevegelse, og det var uvanlig for alle. 
