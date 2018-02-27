@@ -1,4 +1,4 @@
-# Coffee, Tea and Soda
+# Coffee, Tea and Soda.
 
 # Inside a Developer’s Head.
 
