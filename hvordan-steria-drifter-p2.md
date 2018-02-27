@@ -1,4 +1,4 @@
-﻿# Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
+# Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
 
 **Oktober 2016 startet et av Norges største IT prosjekter, og det største i NAVs historie. Rundt 120 mennesker bytter ut det 40 år gamle kjernesystemet. Hvordan ser prosjektet egentlig ut gjennom IT drifts-briller?**
 
@@ -8,7 +8,7 @@ Foreldrepengeprosjektet er en del av Prosjekt 2 i moderniseringen av IKT i NAV. 
 
 Vi startet med en liten prototype som jeg ofte kalte for ’hobby-prosjekt’. Det betyr ikke at vi ikke tok det på alvor, tvert imot. I stedet for å sette alt på plass for 70 utviklere og flere 10.000 kodelinjer her og nå, forholdte vi oss til det som var i dag, et lite programm som vil vokse. Vår oppgave er fortsatt, å hjelpe løsningen med dette. I miljøteamet er oppgaven vår å passe på at applikasjonen alltid er produksjonsklar. Dette går kun når alle endringene i kodebasen blir øyeblikkelig verifisert, og utviklerne får fortest mulig tilbakemelding. En frisør for eksempel må få vite om han eller hun nettopp har barbert vekk en føflekk på hodebunnen, og som snart vil blø og ødelegge skjorten til personen som sitter i stolen. Enhver feil har konsekvenser og trenger oppmerksomhet og må fikses fort.
 
-Jenkins Pipeline er derfor noe av det første vi har satt opp. Pipelinen skulle være enkel og forståelig for alle. Den har tre steg: Init, Build, Deploy. Siste steget deployer appliksjonen til en JBoss server i et av test miljøene i NAV og kjører Flyway skriptene for database oppdatering. Den gir feedback til utviklerne i løpet av veldig kort tid, og apllikasjonen har gått gjennom noen viktige verifiseringssteg. Ett annet viktig verktøy som vi brukte fra dag 1 av var SonarQuebe. SonarQuebe gir oss feedback om kodekvalitet, og det er viktig for å sikre god stabilitet.
+Jenkins Pipeline er derfor noe av det første vi har satt opp. Pipelinen skulle være enkel og forståelig for alle. Den har tre steg: Init, Build, Deploy. Siste steget deployer appliksjonen til en JBoss server i et av test miljøene i NAV og kjører Flyway skriptene for database oppdatering. Den gir feedback til utviklerne i løpet av veldig kort tid, og apllikasjonen har gått gjennom noen viktige verifiseringssteg. Ett annet viktig verktøy som vi brukte fra dag 1 av var SonarQube. SonarQube gir oss feedback om kodekvalitet, og det er viktig for å sikre god stabilitet.
 
 De tre første måneder gikk vedlig fort, og vi brukte tiden til å lære mye om NAV og deres verktøy. Jeg er fortsatt fasinert over det NAV IKT har oppnådd de siste årene med sine selvbetjeningssystemer. For meg var det naturlig å bestille en server og så vente i noen uker. I NAV rekker du ikke en gang å hente kaffe. Selvbetjeningssystemet gjør oss uavhengig fra de som drifter infrastrukturen i NAV.
 
