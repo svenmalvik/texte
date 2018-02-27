@@ -1,6 +1,6 @@
 # Coffee, Tea and Soda
 
-# Inside a Developer’s Head
+# Inside a Developer’s Head.
 
 # Push'n Pull, Don't Be Foolish!
 
