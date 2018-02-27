@@ -7,7 +7,7 @@ Jeg har alltid hatt lyst til å publisere en bok. For noen år siden intervjuet 
 ## Alle kan bli forfattere!
 Myers–Briggs Type Indikatoren (MBTI) beskriver 16 personlighetstyper. Jeg er typ INTP. For meg betyr det blant annet at jeg elsker å starte med nye prosjekter. Det betyr også at jeg sjeldent avslutter disse, noe som er et problem for mange INTP-ler. Når en INTP-ler har forstått konseptet bak det den forsker på eller undersøker, er prosjektet ikke spennende lenger. Prosjektene bør derfor være begrenset i omfang.
 "One more thing", fortsatte han. "I'll never do that again, bad investment and poorly paid too". Det kan ikke stemme helt, tenkte jeg. Han er jo utrolig smart og han vet alt om Scala. Det var i hvertfall det inntrykket jeg fikk av ham. Hvordan kan det være en dårlig investisjon å lære noe? Kanskje det kostet ham noe av privatlivet hans, hvem vet.
-Jeg har ennå ikke skrevet en eneste bok man kan ta på alvor. Det fordi jeg er redd at jeg aldri vil avslutte den. Sannsynlig leter jeg etter en slags snarvei.
+Jeg har ennå ikke skrevet en eneste bok man kan ta på alvor. Det fordi jeg er redd, tenker jeg, at jeg aldri vil avslutte den. Sannsynlig leter jeg etter en slags snarvei.
 
 Sommer 2016 fikk jeg oppgaven av å vedlikeholde systemdokumentasjonen til det prosjektet jeg sitter i. Først og fremst betyr det å sørge for at utviklerne dokumenterer i det hele tatt. Det er en enkel jobb tenkte jeg, fordi dokumentasjonen genereres helt automatisk. Perfekt! 
 
