@@ -20,4 +20,4 @@ Jeg var meget fornøyd. Jeg husker at jeg lå i sengen den kvelden og leste i MI
 
 ## Konklusjonen av denne erfaringen er denne:
 Alle bør ta seg tid når det gjelder dokumentasjon av kodebasen. Alle bør dokumentere slik at leseren forstår teksten ut i fra konteksten. Måten man sikrer dette på er å gi fort tilbakemelding, helst med en gang kodebasen endrer seg, dvs. rett etter hver commit. Dokumentasjonen må i så fall bli en del av en Jenkins Pipeline, kontinuerlig dokumentasjon. 
-Vi kan alle bli bokforfattere, men først må vi få det på radaren, og tar denne delen av en leveranse enda mer på alvor. Dokumentasjon kan bli den nye Godfather for deg om du tillater det. Og en ting til slutt. Eksporter dokumentasjonen i ett format du liker å lese i, for meg er det mobi (Kindle).
+Vi kan alle bli bokforfattere, men først må vi få det på radaren, og tar denne delen av en leveranse enda mer på alvor. Dokumentasjon kan bli den nye Godfather for deg om du tillater det. Og en ting til slutt. Eksporter dokumentasjonen i ett format du liker å lese i, for meg er det Kindle.
