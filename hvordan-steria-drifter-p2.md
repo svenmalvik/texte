@@ -1,6 +1,6 @@
 # Hvordan Sopra Steria drifter NAVs største IT-prosjekt. 
 
-**Foreldrepengeprosjektet er en del av Prosjekt 2 i moderniseringen av IKT i NAV. Målet med prosjektet er å lage en moderne saksbehandlingsløsning og nye digitale tjenester, med vekt på forenkling, digitalisering og automatisering. I dette innlegget vil jeg beskrive hvordan vi drifter prosjektet med tanke på automatisering.**
+**Foreldrepengeprosjektet er en del av Prosjekt 2 i moderniseringen av IKT i NAV. Målet med prosjektet er å lage en moderne saksbehandlingsløsning og nye digitale tjenester, med vekt på forenkling, digitalisering og automatisering. I dette innlegget vil jeg beskrive hvordan vi drifter prosjektet.**
 
 Vi startet med en liten prototype som jeg ofte kalte for ’hobby-prosjekt’. Det betyr ikke at vi ikke tok det på alvor, tvert imot. I stedet for å sette alt på plass for en stor løsning her og nå, forholdte vi oss til det som var i dag, et lite program som vil vokse. Vår oppgave i miljøteamet er å passe på at applikasjonen alltid er produksjonsklar. Dette går kun når alle endringene i kodebasen blir øyeblikkelig verifisert, og utviklerne får fortest mulig tilbakemelding.
 
