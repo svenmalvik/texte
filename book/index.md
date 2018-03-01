@@ -1,5 +1,7 @@
 # The Developer: The Ultimate Software Developer’s Guide For Becoming The Best You Can Be.
+
 ## Introduction
+
 The Problem In Many Environments And How A WIP Guard Made Me Quit My Job 
 
 My Biggest Setback And How I Came Back 
@@ -12,11 +14,11 @@ Why The Right Mindset Changes Everything
 
 ### Developer’s Mindset 
 
-Coffee, Tea and Soda 
+Coffee, Tea and Soda. 
 
-A Day In A Developer’s Head 
+Inside a Developer’s Brain.
 
-Why We Play Blame Game 
+The Blame Gamer.
 
 What We Think About Working Agile 
 
@@ -38,7 +40,7 @@ Everyone Is An Important Asset
 
 There’s No Easy To Learn Language 
 
-Software Is Never Finished 
+Software is Never Finished. 
 
 Soft Skills Are As Important As Hard Skills 
 
