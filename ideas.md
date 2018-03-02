@@ -2,11 +2,11 @@
 **A software developer gets sabotaged by poor leadership and descides to fight back.**
 
 ## Structure
-1. A developer, a tester and a leader.
-1. He can't do his job because of poor leadership.
-1. He is tired of switching job and decides to fight back.
-1. He makes the leader's life hard and miserable until the leader finally quits his job.
-1. The developer is now the poor leader.
+1. A developer, a tester and a boss.
+1. He can't deliver because of poor leadership and gets a warning.
+1. He decides to fight his boss.
+1. He makes his life hard and miserable until his boss finally quits.
+1. The developer becomes now the new poor leader.
 
 ## Characters
 
