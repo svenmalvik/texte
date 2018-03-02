@@ -7,9 +7,9 @@
 
 3. The developer is tired of switching job and decides to fight back
 
-4. The developer makes the leader's life hard and miserable until the leader finally quits his job. The developers takes over most of the leader's tasks.
+4. The developer makes the leader's life hard and miserable until the leader finally quits his job. The developers gets most of the leader's tasks.
 
-5. Now the developer is the poor leader who gets faught and who's life becomes mierable.
+5. The developer now becomes the poor leader.
 
 # Inside a Developer’s Brain.
 
