@@ -11,13 +11,13 @@
 ## Characters
 
 ### Developer
-Dan (47)
+Dan (47) is a real tech nerd. He is a bit overweight. He don't cares how he looks. Dan loves meat and drinks way too much coffee. He lives alone
 
 ### Tester
-Tina
+Tina (28) is a very curious and pretty girl who has been in the comapny since she finished high-school. Tina works strict by the rules. She used to eat salad and drinks roibosh tea. What others think of her does matter to her. 
 
 ### Boss
-Bernard
+Bernard (32), has a bachlour in economics and worked as a salesman for a large online accounting company before he started here 2 weeks ago. He is always well dressed and has a nice haircut. On his desk are always plenty of emty sode bottles.
 
 ## Environment
 
