@@ -16,8 +16,8 @@ Dan (47)
 ### Tester
 Tina
 
-### Leader
-Leopold
+### Boss
+Bernard
 
 # Inside a Developer’s Brain.
 
