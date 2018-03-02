@@ -9,7 +9,7 @@
 
 4. The developer makes the leader's life hard and miserable until the leader finally quits his job. The developers gets most of the leader's tasks.
 
-5. The developer now becomes the poor leader.
+5. The developer is now the poor leader.
 
 # Inside a Developer’s Brain.
 
