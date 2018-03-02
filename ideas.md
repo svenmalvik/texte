@@ -8,6 +8,17 @@
 1. He makes the leader's life hard and miserable until the leader finally quits his job.
 1. The developer is now the poor leader.
 
+## Characters
+
+### Developer
+Dan (47)
+
+### Tester
+Tina
+
+### Leader
+Leopold
+
 # Inside a Developer’s Brain.
 
 # Push'n Pull, Don't Be Foolish!
