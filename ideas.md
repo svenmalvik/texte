@@ -1,5 +1,5 @@
 # Coffee, Tea and Soda.
-**A software developer gets sabotaged by poor leadership and descides to fights back.**
+**A software developer gets sabotaged by poor leadership and descides to fight back.**
 
 ## Structure
 1. A developer, a tester and a leader.
