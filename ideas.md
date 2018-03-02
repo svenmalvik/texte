@@ -1,15 +1,15 @@
 # Coffee, Tea and Soda.
 **A software developer gets sabotaged by poor leadership and fights back.**
 
-A developer, a tester and a leader.
+1. A developer, a tester and a leader.
 
-The developer can't do his job because of poor leadership.
+2. The developer can't do his job because of poor leadership.
 
-The developer is tired of switching job and decides to fight back
+3. The developer is tired of switching job and decides to fight back
 
-The developer makes the leader's life hard and miserable until the leader finally quits his job. The developers takes over most of the leader's tasks.
+4. The developer makes the leader's life hard and miserable until the leader finally quits his job. The developers takes over most of the leader's tasks.
 
-Now the developer is the poor leader who gets faught and who's life becomes mierable.
+5. Now the developer is the poor leader who gets faught and who's life becomes mierable.
 
 # Inside a Developer’s Brain.
 
