@@ -1,9 +1,14 @@
 # Når Docker hjelper deg og ikke er et hinder
+
 Høst 2016 startet jeg i DevOps avdelingen hos Sopra Steria. Jeg var heldig. Jeg fikk et oppdrag med en gang, faktisk før jeg hadde startet, og jeg fikk jobbe med det jeg ønsket meg aller mest, Docker. Jeg skulle hjelpe prosjektet med å få opp en infrastruktur av mikrotjenester som lever i ett Docker miljø. Teknologien var relativt nytt for meg og læringskurven var bratt. Vi var to som jobbet på driftssiden, og for begge oss i teamet var denne nye verden ukjent landskap.
-## 
+
+## ???
+
 For noen år siden skrev jeg et Python programm som sørger for å få flere Twitter følgere. Programmet hadde noen avhengigheter til andre Python moduler som jeg installerte med Pip. Jeg husker at installasjonen av Python og Pip ikke var rett fram. Ubuntu versjonen jeg brukte kom med Python 2, men jeg trengte Python 3. Det tok noe tid å få dette riktig. Teknologier som man ikke bruker til daglig krever mer tid. Derfor puttet jeg programmet inn i et Docker image, og så unngå instalasjon av Python og Pip senere en gang til. 
 To år senere trengte jeg programmet igjen. Jeg hadde selvføleglig ingen anelse på hvordan jeg skulle installere, stoppe eller hvordan jeg måtte konfigurere programmet. Eneste jeg viste var at jeg brukte Python og at jeg hadde laget et Docker image som lå på min docker.io konto. For å starte en applikasjon som kjører inn i en Docker kontainer kjører man som regel „docker run <repo/navn>“. Docker hjalp meg med å komme rask i gang. Jeg slapp å bruke mye tid på å finne ut av hvordan jeg skulle få opp applikasjonen.
 I dette innlegget vil jeg ikke gå inn på hvordan Docker fungerer eller hva som er fordelene eller utfordringene med Docker. I steden vil jeg si litt om når jeg menter at man bør bruke Docker og kontainerisere sin applikasjon og når man kansje heller bør la være. 
 Det viktigste først: Docker kommer aldri alene. For å få kontainerne tilgjengelige fra for eksempel internettet, trenger vi ofte en lastbalanser, en proxy, service discovery verktøy, eller et verktøy for konfigurasjonsstyring. Mye av det dekkes av teknologi som for eksempel Kubernetes. Kubernetes fungerer som en slags paraply, men dekker heller ikke alt. Det jeg vil si er følgende: Ett velfungerende Docker miljø krever mye kunnskap om mange andre teknologier enn Docker og applikasjonen som vi egentlig vil kjøre. Det er viktig å være bevist på det valget.
+
 Som en utvikler kan jeg det grunnlegende av Git, Maven og Jenkins. Jeg kan også skrive en Dockerfil. Aller helst vil jeg utvikle. Det jeg som regel ikke ønsker å gjøre er å drivte et Dockermiljø. Det fordi det ofte er en fulltidsjobb, tid jeg ikke har. Store selskap har heldigvis en egen driftsavdeling som kan ta seg av å vedlikeholde et Docker miljø. Mindre oragnisasjoner har ofte ikke den kapasitenen. Jeg påstår at, og det er sikkert noen som er uenig med meg, Docker som Plattform as a Service (PaaS) er en forutsettning for at et prosjekt bør bruke Docker. 
+
 When should I use Docker?
