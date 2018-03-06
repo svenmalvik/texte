@@ -12,3 +12,5 @@ Det viktigste først: Docker kommer aldri alene. For å få kontainerne tilgjeng
 Som en utvikler kan jeg det grunnlegende av Git, Maven og Jenkins. Jeg kan også skrive en Dockerfil. Aller helst vil jeg utvikle. Det jeg som regel ikke ønsker å gjøre er å drivte et Dockermiljø. Det fordi det ofte er en fulltidsjobb, tid jeg ikke har. Store selskap har heldigvis en egen driftsavdeling som kan ta seg av å vedlikeholde et Docker miljø. Mindre oragnisasjoner har ofte ikke den kapasitenen. Jeg påstår at, og det er sikkert noen som er uenig med meg, Docker som Plattform as a Service (PaaS) er en forutsettning for at et prosjekt bør bruke Docker. 
 
 When should I use Docker?
+
+When you have a sysadmin, for learning and for private use - small setups where only one Docker host is needed.
