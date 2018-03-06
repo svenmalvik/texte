@@ -1,4 +1,4 @@
-﻿# Når Docker hjelper deg og ikke er et hinder
+# Når Docker hjelper deg og ikke er et hinder
 Høst 2016 startet jeg i DevOps avdelingen hos Sopra Steria. Jeg var heldig. Jeg fikk et oppdrag med en gang, faktisk før jeg hadde startet, og jeg fikk jobbe med det jeg ønsket meg aller mest, Docker. Jeg skulle hjelpe prosjektet med å få opp en infrastruktur av mikrotjenester som lever i ett Docker miljø. Teknologien var relativt nytt for meg og læringskurven var bratt. Vi var to som jobbet på driftssiden, og for begge oss i teamet var denne nye verden ukjent landskap.
 ## 
 For noen år siden skrev jeg et Python programm som sørger for å få flere Twitter følgere. Programmet hadde noen avhengigheter til andre Python moduler som jeg installerte med Pip. Jeg husker at installasjonen av Python og Pip ikke var rett fram. Ubuntu versjonen jeg brukte kom med Python 2, men jeg trengte Python 3. Det tok noe tid å få dette riktig. Teknologier som man ikke bruker til daglig krever mer tid. Derfor puttet jeg programmet inn i et Docker image, og så unngå instalasjon av Python og Pip senere en gang til. 
