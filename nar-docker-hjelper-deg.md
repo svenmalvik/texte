@@ -1,5 +1,5 @@
 ﻿# Docker for alle. Alle for Docker.
-**Docker kommer sjeldent alene. Ofte er det flere andre teknologier involvert. Men, når bør vi egentlig bruke Docker, og når bør vi kanskje tenke oss om? **
+**Docker kommer sjeldent alene. Ofte er det flere andre teknologier involvert. Men, når bør vi egentlig bruke Docker, og når bør vi kanskje tenke oss om?**
 
 Høst 2016 startet jeg i DevOps avdelingen hos Sopra Steria. Jeg skulle hjelpe en kunde med lage en Dockerplattform hvor flere mindre store tjenester skulle kjøre på. Det var for noen år siden, og plattformen brukes fortsatt. Når jeg tenker tilbake til alle utfordringene vi hadde, så spør jeg meg ofte om det var verdt det. Oppgaven var enorm. Det føltes som å bygge et slott får en trebarnsfamilie. I dette innlegget vil jeg fortelle om mine synspunkter om Docker, og hva man bør tenke på før man starter med Docker. 
 ## Docker for privatbruk 
