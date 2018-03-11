@@ -1,10 +1,11 @@
 ﻿# The beauty of kontinuerlig dokumentasjon.
 
-**For mange er å skrive dokumentasjon like spennende som å vaske en inntørket lasagneform som ikke ble smøret inn. Kanskje fordi vi går ut i fra at de fleste dokumentasjonene ikke inviterer til å lese, de er veldig informative, tørre, veldig kjedelige. I så fall er det lite som motiverer.**
+**For mange er å skrive dokumentasjon like spennende som å ta kollektiv på morningen. Jeg tror det er fordi vi går ut i fra at ingen vil lese den. De fleste dokumentasjonene inviterer ikke til å lese, de er informative, men ofte tørre og kjedelige. I så fall er det lite som motiverer.**
 
-Jeg har alltid hatt lyst til å publisere en bok. For noen år siden intervjuet jeg Nilanjan Raychaudhuri, forfatteren av "Scala in Action". Vi spiste lunsj sammen. Han ledet en Scala workshop jeg deltok på. "How much time did you spend on writing this book?", spurte jeg. "About two years. You need to have great disiplin", svarte han. Jeg viste at å skrive en bok er utfordrende, men å høre det direkte fra noen som har publisert noe som folk faktisk leser. Dette var spennende. 
+Jeg har alltid hatt lyst til å publisere en bok. For noen år siden intervjuet jeg Nilanjan Raychaudhuri, forfatteren av "Scala in Action". Vi spiste lunsj sammen. Han ledet en Scala workshop jeg deltok på. "How much time did you spend on writing this book?", spurte jeg. "About two years. You need to have great disiplin", svarte han. Jeg viste at å skrive en bok er utfordrende, men å høre det direkte fra noen som har publisert en bok som folk faktisk leser. Dette var spennende tenkte jeg. 
 
 ## Alle kan bli forfattere!
+Jeg kan bruke 3, 4 måneder til å skrive en bok. 
 Myers–Briggs Type Indikatoren (MBTI) beskriver 16 personlighetstyper. Jeg er typ INTP. For meg betyr det blant annet at jeg elsker å starte med nye prosjekter. Det betyr også at jeg sjeldent avslutter disse, noe som er et problem for mange INTP-ler. Når en INTP-ler har forstått konseptet bak det den forsker på eller undersøker, er prosjektet ikke spennende lenger. Prosjektene bør derfor være begrenset i omfang.
 "One more thing", fortsatte han. "I'll never do that again, bad investment and poorly paid too". Det kan ikke stemme helt, tenkte jeg. Han er jo utrolig smart og han vet alt om Scala. Det var i hvertfall det inntrykket jeg fikk av ham. Hvordan kan det være en dårlig investisjon å lære noe? Kanskje det kostet ham noe av privatlivet hans, hvem vet.
 Jeg har ennå ikke skrevet en eneste bok man kan ta på alvor. Sannsynlig leter jeg etter en slags snarvei.
