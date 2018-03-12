@@ -1,5 +1,5 @@
 ﻿# Docker kommer sjeldent alene.
-**Når vi bruker Docker, så er det ofte slik at mange andre teknologier blir involvert. Spørsmålet som stiller seg da er om det kan bli for mye når vi starter memd Docker. I dette innlegget vil jeg fortelle om mine erfaringer med Docker.**
+**Når vi bruker Docker, så er det ofte slik at mange andre teknologier blir involvert. Spørsmålet som stiller seg da er om det kan bli for mye når vi starter med Docker. I dette innlegget vil jeg fortelle om mine erfaringer med Docker.**
 
 Høst 2016 startet jeg i DevOps avdelingen hos Sopra Steria. Jeg skulle hjelpe en kunde med lage en Dockerplattform hvor flere mindre store tjenester skulle kjøre på. Det var for noen år siden. Når jeg tenker tilbake til alle utfordringene vi hadde og hvilken gevinst vi oppnådde, så spør jeg meg ofte om det var verdt det. Oppgaven var enorm. Det føltes som å bygge et slott får en trebarnsfamilie. I dette innlegget vil jeg fortelle om mine synspunkter om Docker, og hva man bør tenke på før man starter med Docker. 
 ## Docker for privatbruk 
