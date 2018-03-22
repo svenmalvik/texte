@@ -15,3 +15,5 @@ Jeg var meget fornøyd! Jeg husker at jeg lå i sengen den kvelden og leste i «
 
 ## Konklusjonen:
 Dokumentasjon er viktig. Faktisk bør alle ta seg god tid når det gjelder dokumentasjon av kodebasen. Dokumentere slik at leserne forstår hva modulene, klassene og selve løsningen gjør, og hvordan alt henger sammen. Bilder er viktig å inkludere. Systemdokumentasjonen bør til enhver tid være oppdatert, og eventuelt være en del av en Jenkins Pipeline. Om vi praktiserer kontinuerlig dokumentasjon på en smidig måte, og tar dokumentasjon på alvor fra dag èn i leveransene, kan vi alle bli forfattere. 
+
+En siste ting. Eksporter dokumentasjonen din til et format du liker å lese i, for meg er det Kindle.
