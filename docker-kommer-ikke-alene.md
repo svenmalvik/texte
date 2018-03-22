@@ -1,5 +1,5 @@
 ﻿# Docker kommer sjeldent alene.
-**Når vi bruker Docker, så er ofte mange andre teknologier involvert. Da stiller seg spørsmålet om det kan bli for mye teknologi i starten. I dette innlegget vil jeg fortelle om mine synspunkter om Docker, og hva man bør tenke på før man starter med Docker.**  
+**Når vi starter et prosjekt med Docker, så er ofte mange andre teknologier involvert, teknologier som vi i starten kanskje ikke hadde regnet med. I dette innlegget vil jeg fortelle om mine synspunkter om Docker, og hva man bør tenke på før man starter med Docker.**  
 
 ## Docker for privatbruk 
 For noen år siden skrev jeg et Python skript som skulle sørge for å få meg flere Twitter følgere. Skriptet hadde noen avhengigheter til moduler som jeg installerte med pip - en pakkemanager for Python. Jeg husker at installasjonen av Python og pip var hompete. Ubuntu versjonen jeg brukte kom med Python 2, men jeg trengte Python 3 og en tilsvarende versjon av pip. Det tok noe tid før alt var på plass, nettopp fordi jeg hadde ikke brukt disse teknologier før. Jeg puttet skriptet og avhengighetene inn ett Docker image. Slik unngikk jeg installasjon senere en gang til. 
