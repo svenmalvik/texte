@@ -5,8 +5,9 @@ Vi startet høst 2016 med å lage en prototype som jeg likte å kalle for ’hob
 
 Det første vi satte opp var en Jenkins Pipeline. Pipelinen skulle være enkel og forståelig. Den har derfor kun tre steg: Init, Build, Deploy. Siste steget deployer applikasjonen til en JBoss server. Når løsningen er bygget og deployet, vil det det neste verifiserte bygget overstyre det gamle. En ny versjon skal altså ikke testes manuelt og øyeblikkelig. Men, hvorfor deployer vi løsningen hvis vi ikke tester den med en gang? Det hender at ny innførte tredjeparts-biblioteker som allerede kommer med JBoss, men i en annen versjon, skaper oppstartsproblemer for løsningen. Vi opplevde dette med jaxrs og flere andre bibliotheker. Slike avhengighetsproblemer må identifiseres før vi tester manuelt. Avhengighetsproblemer med JBoss var ikke det eneste som vi måtte identifisere før vi tester.
 
-Vi måtte også passe på at endringer i datamodellen ikke ødelegger eksiterende testdataer i systemtestmiljøet til kunden. For eksempel: En tabell <Person> med tre kolonner „ID“, „FORNAVN“ og "NAVN". Prosjektet bestemmer senere at kolonne NAVN skal gjøres om til ETTERNAVN. En snarvei som i noen tillfeller ble tatt var å endre kolonnenavnet i det skriptet som oppretter tabellen.
-  
+Vi bruker Flyway. Vi sletter basen og kjører alle databaseskriptene i vårt testmiljø. Hos kunden sletter vi ikke basen. Der kjører Flyway kun nye skripter. Detter vil feile pga to ting. 1. checksummen er annerledes. 2. Eventuele avhengigheter brekkes.
+
+Vi måtte også passe på at endringer i datamodellen ikke ødelegger eksiterende testdataer i systemtestmiljøet til kunden. For eksempel: En tabell <Person> med tre kolonner „ID“, „FORNAVN“ og "NAVN". Prosjektet bestemmer senere at kolonne NAVN skal gjøres om til ETTERNAVN. En snarvei som i noen tillfeller ble tatt var å endre kolonnenavnet i det skriptet som oppretter tabellen.  
   Eksisterende testdataer må nå migreres til den nye datamodellen. I dette eksempelet skal vi splitte "NAVN" i "FORNAVN" og "ETTERNAVN". Egentlig ikke noe stor sak. Utfordringen kom da datamodellen ble større. 
   Et endret skript kan feile når vi deployer til kundens systemtestmiljø. I verste fall kan systemet komme i en tilstand hvor det kreves mye rydding i etterkant.
   
